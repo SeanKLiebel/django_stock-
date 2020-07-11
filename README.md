@@ -1,2 +1,5 @@
 # django_stock-
-My django stock market app
+# django_stock-
+# django_stock-
+# django_stock-
+# django_stock-
